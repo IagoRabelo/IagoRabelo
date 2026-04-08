@@ -37,8 +37,8 @@ Sou um engenheiro apaixonado por resolver problemas complexos através da tecnol
 
 ### 📊 Minhas Estatísticas
 <p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=radical&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=IagoRabelo&show_icons=true&theme=radical&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IagoRabelo&layout=compact&theme=radical&hide_border=true" />
 </p>
 
-📫 **Como me encontrar:** [LinkedIn](SEU_LINKEDIN_AQUI) | rabeloiago@gmail.com
+📫 **Como me encontrar:** [LinkedIn](https://www.linkedin.com/in/iago-giovane-rabelo-b6aab3114/) | rabeloiago@gmail.com
